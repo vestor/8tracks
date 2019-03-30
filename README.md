@@ -1,14 +1,14 @@
-### What is this repository for?###
+### What is this repository for?
 
 * This is a simple web-app written in spring-boot to mimic the 8tracks playlist APIs 
 
-### How do I get set up?###
+### How do I get set up?
 1. Change the application.properties to point to your Database
 2. Make sure you have maven installed on your system
 3. Run the command *mvn clean install -DskipTests
 4. The app should startup and would be by default hosted on localhost:8080
 
-### Defaults ###
+### Defaults
 - The default database name is "assignment"
 - The default user name and pass for mysql is root/root
 
